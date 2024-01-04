@@ -11,7 +11,7 @@
     <groupId>org.nepalimarket</groupId>
     <artifactId>DatingAppProject</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>DatingAppProject</name>
     <description>DatingAppProject</description>
     <properties>
