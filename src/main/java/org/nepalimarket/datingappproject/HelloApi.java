@@ -15,7 +15,7 @@ public class HelloApi {
     public ResponseEntity<String> helloApi() {
         String message = """
                 <h2>Welcome to the Hello API!</h2>
-                <p>Here's a short to-do list for dating app:</p>
+                <p>Here's a short to-do list:</p>
                 <ol>
                    <li>Create user registration and login functionality.</li>
                    <li>Integrate Facebook API for social media features.</li>
